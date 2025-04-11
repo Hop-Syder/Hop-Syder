@@ -2,7 +2,7 @@
   <a href="README.md">
     <img src="https://img.shields.io/badge/Langue-Français-blue.svg" alt="Français">
   </a>
-  <a href="README.en.md">
+  <a href="README_en.md">
     <img src="https://img.shields.io/badge/Language-English-red.svg" alt="English">
   </a>
 </div>
