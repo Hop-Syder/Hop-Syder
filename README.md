@@ -17,7 +17,7 @@ Professionnel polyvalent, j’ai développé des compétences solides en électr
 
 🔍 Toujours à la recherche de nouveaux défis, je m’engage à maximiser l’impact des projets auxquels je participe, en alliant rigueur technique, créativité et esprit d’équipe.
 
-Découvrez mon portfolio pour en savoir plus : [Mon Portfolio](https://da-christian.xyz)
+Découvrez mon portfolio pour en savoir plus : [Mon Portfolio](https://ceo.nexus-partners.xyz)
 
 ---
 
