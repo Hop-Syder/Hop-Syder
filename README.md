@@ -28,7 +28,7 @@ Découvrez mon portfolio pour en savoir plus : [Mon Portfolio](https://ceo.nexus
 👯 **Je cherche à collaborer sur** : Des projets de machine learning, et de développement web app<br>
 💬 **Posez-moi des questions sur** : Le développement web et mobile, sur le machine learning
 (IA), ainsi que sur les bonnes pratiques de programmation.<br>
-📫 **Contactez-moi** : ismael@da-christian.xyz<br>
+📫 **Contactez-moi** : daoudaabassichristian@gmail.com<br>
 ⚡ **Fun fact** : J'adore résoudre des défis de programmation en buvant un bon café ☕.
 
 ---
