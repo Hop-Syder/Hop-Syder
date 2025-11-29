@@ -58,6 +58,10 @@ Découvrez mon portfolio pour en savoir plus : [Mon Portfolio](https://ceo.nexus
 
 ---
 
+<!-- Temps d'utilisation hebdomadaire -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HopSyder&theme=radical)
+
+
 # 📊 Statistiques GitHub :
 
 ![](https://komarev.com/ghpvc/?username=Hop-Syder&color=dc143c)
