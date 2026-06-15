@@ -1,99 +1,88 @@
-<div align="right">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Langue-Français-blue.svg" alt="Français">
-  </a>
-  <a href="README_en.md">
-    <img src="https://img.shields.io/badge/Language-English-red.svg" alt="English">
-  </a>
+<!--
+ * @author @hopsyder
+ * @organization Nexus Partners
+ * @description GitHub Profile README professionnel pour @hopsyder
+ * @created 2026-06-15
+ * @updated 2026-06-15
+ * 🌐 ceo.nexuspartners.xyz
+ * 📧 daoudaabassichristian@gmail.com
+ ──────────────────────────────────
+-->
+<div align="center">
+  
+  # 🚀 Daouda Abassi Christian
+  ### **Full-Stack Software Architect & CEO at Nexus Partners**
+  
+  [![Website](https://img.shields.io/badge/ceo.nexuspartners.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ceo.nexuspartners.xyz)
+  [![Email](https://img.shields.io/badge/daoudaabassichristian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoudaabassichristian@gmail.com)
+  ---
+  <p align="center">
+    <i>"L'excellence en développement, design et architecture logicielle. Créer des produits performants, élégants et robustes."</i>
+  </p>
+  <img src="https://views.whatilearened.today/views/github/Hop-Syder/views.svg" alt="Views" />
 </div>
-
-# 👋 Bonjour, je suis Hop Syder
-
-**Technicien en Génie Électrique et Informatique, Junior en Data Science et Développeur Web/APP**, je combine expertise technique et passion pour l’innovation. Fort d’une expérience dans la _programmation industrielle, l’électronique, l’informatique et le développement de solutions intelligentes_, je m’investis pleinement dans la création d’outils performants et adaptés aux besoins actuels.
-
-Curieux et engagé, je partage mes connaissances à travers la rédaction d’articles techniques, la contribution à des projets open-source, et des actions de vulgarisation technologique.
-
-Professionnel polyvalent, j’ai développé des compétences solides en électricité industrielle, en data science (conception de logiciels intégrant l’IA) et en développement web. Mon parcours à la Jeune Chambre Internationale (JCI Bénin) m’a permis de renforcer mes aptitudes en gestion de projet, communication, leadership et marketing digital.
-
-🔍 Toujours à la recherche de nouveaux défis, je m’engage à maximiser l’impact des projets auxquels je participe, en alliant rigueur technique, créativité et esprit d’équipe.
-
-Découvrez mon portfolio pour en savoir plus : [Mon Portfolio](https://ceo.nexus-partners.xyz)
-
+## 🧠 À Propos de Moi
+Je suis **Daouda Abassi Christian** (alias **@hopsyder**), ingénieur et architecte logiciel passionné par le développement de produits innovants et haut de gamme. En tant que **CEO de Nexus Partners**, j'accompagne les entreprises et les startups dans la conception d'architectures résilientes, d'interfaces à l'esthétique soignée ("Beauty First") et de systèmes hautement performants.
+- 🏢 **Nexus Partners** : Nous façonnons le futur de la tech à travers des applications web et mobiles d'excellence.
+- ⚡ **Philosophie** : Clean Architecture, simplicité du code, performances extrêmes et automatisation.
+- 🌍 **Localisation** : Afrique de l'Ouest (Bénin) / International.
+- 💬 **Langue** : Français & Anglais.
 ---
-
-# 💫 À propos de moi :
-
-🔭 **Actuellement, je travaille sur** : un projet de seme city <br>
-🌱 **Je me forme actuellement sur** : Python, React et React Native pour diversifier mes compétences.<br>
-👯 **Je cherche à collaborer sur** : Des projets de machine learning, et de développement web app<br>
-💬 **Posez-moi des questions sur** : Le développement web et mobile, sur le machine learning
-(IA), ainsi que sur les bonnes pratiques de programmation.<br>
-📫 **Contactez-moi** : daoudaabassichristian@gmail.com<br>
-⚡ **Fun fact** : J'adore résoudre des défis de programmation en buvant un bon café ☕.
-
+## 🛠️ Mon Arsenal Technologique
+<div align="center">
+### 🎨 Frontend & Design
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+### ⚙️ Backend & API
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+### 🗄️ Database, DevOps & Cloud
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+### 💳 Solutions de Paiement
+[![FedaPay](https://img.shields.io/badge/FedaPay-0099FF?style=for-the-badge&logo=credit-card&logoColor=white)](https://www.fedapay.com)
+[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
+</div>
 ---
-
-## 🌐 Réseaux sociaux :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael122)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/hopsyder)
-
+## 📈 Mes Statistiques GitHub
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hop-Syder&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques de Hop-Syder" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hop-Syder&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés par Hop-Syder" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hop-Syder&theme=tokyonight" alt="GitHub Streak de Hop-Syder" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
-
-# 💻 Stack technique :
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%23005C2E.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Mathlab](https://img.shields.io/badge/matlab-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+## 🌐 Nexus Partners
+Chez **Nexus Partners**, nous croyons fermement que l'ingénierie logicielle et le design de haut niveau doivent converger pour créer des expériences numériques d'exception. Nous intervenons sur :
+- **Architecture Logicielle & Microservices** : Conception de bases solides, scalables et résilientes.
+- **Applications Web & Mobile** : Développement multiplateforme de bout en bout (Next.js, NestJS, Flutter).
+- **Intégrations de Systèmes & Paiements** : Solutions de paiement locales (FedaPay) et internationales (Stripe).
+- **Conseil en Innovation & IA** : Accompagnement technique pour accélérer la croissance des produits.
+👉 Découvrez-en plus sur notre site officiel : [ceo.nexuspartners.xyz](https://ceo.nexuspartners.xyz)
 ---
-
-<!-- Temps d'utilisation hebdomadaire -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HopSyder&theme=radical)
-
-
-# 📊 Statistiques GitHub :
-
-![](https://komarev.com/ghpvc/?username=Hop-Syder&color=dc143c)
-
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Hop-Syder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hop-Syder&theme=dark&hide_border=false)<br/>
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=Hop-Syder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+## 📬 Me Contacter
+Si vous avez un projet ambitieux, besoin d'une architecture technique solide, ou simplement envie d'échanger sur les dernières technologies :
+- **📧 Email** : [daoudaabassichristian@gmail.com](mailto:daoudaabassichristian@gmail.com)
+- **🌐 Site Web** : [ceo.nexuspartners.xyz](https://ceo.nexuspartners.xyz)
+- **🐙 GitHub** : [@Hop-Syder](https://github.com/Hop-Syder)
 ---
-
-## 🏆 Trophées GitHub
-
-![](https://github-profile-trophy.vercel.app/?username=Hop-Syder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Citation inspirante de développeur
-
-> "Les données sont le nouveau pétrole, mais leur valeur réside dans leur raffinage." - Clive Humby
-
-> "La programmation est un art, et chaque ligne de code est une œuvre d'art." - Anonyme
-
-> "La technologie est un outil, mais l'innovation est la clé." - Anonyme
-
-> "La meilleure façon de prédire l'avenir est de l'inventer." - Alan Kay
-
----
-
-### 🔝 Dépôts les plus contribué
-
-![](https://github-contributor-stats.vercel.app/api?username=Hop-Syder&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-Merci d'avoir visité mon profil ! 😊
+<div align="center">
+  <p><i>Propulsé par DEXTY — Votre Agent de Développement Full Stack Pro.</i></p>
+</div>
