@@ -14,7 +14,7 @@
   # 🚀 Daouda Abassi Christian
   ### **Full-Stack Software Architect & CEO at Nexus Partners**
   
-  [![Website](https://img.shields.io/badge/ceo.nexus-partners.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ceo.nexuspartners.xyz)
+  [![Website](https://img.shields.io/badge/ceo.nexus-partners.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ceo.nexus-partners.xyz)
   [![Email](https://img.shields.io/badge/daoudaabassichristian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoudaabassichristian@gmail.com)
 
   ---
