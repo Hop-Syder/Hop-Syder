@@ -1,6 +1,3 @@
-Voici le README **complet et final**, avec le combo intégré : **🤖 Metrics + 🏆 Trophées + 🐍 Snake** (tu as déjà configuré le token pour Metrics, donc autant tout exploiter).
-
-````markdown
 <!--
  * @author       @hopsyder
  * @organization Nexus Partners
@@ -131,21 +128,3 @@ Un projet ambitieux ? Besoin d'une architecture technique solide ? Ou simplement
 <div align="center">
   <p><i>Propulsé par DEXTY — Votre Agent de Développement Full Stack Pro.</i></p>
 </div>
-````
-
----
-
-## ✅ Checklist avant de push
-
-Pour que les 3 visuels de la section stats s'affichent, vérifie que tout est en place :
-
-| # | Élément | Statut |
-|---|---|---|
-| 1 | 🤖 Fichier `.github/workflows/metrics.yml` créé + secret `METRICS_TOKEN` configuré | ⬜ |
-| 2 | 🐍 Fichier `.github/workflows/snake.yml` créé | ⬜ |
-| 3 | ▶️ **Run workflow manuel** pour les deux (onglet *Actions*) | ⬜ |
-| 4 | 🔍 Vérifier que la branche `output` contient `metrics.svg`, `snake.svg`, `snake-dark.svg` | ⬜ |
-
-> ⚠️ **Important** : tant que les workflows n'ont pas tourné au moins une fois, les images afficheront une erreur. Lance-les manuellement dès la création des fichiers, puis tout se régénère automatiquement chaque jour.
-
-> 💡 Si un jour tu veux revenir aux cartes classiques (stats + langages + streak), dis-le-moi et je te fais une variante mixte. Tu peux aussi ajouter plus tard le **graphe d'activité annuel** — il se marie bien avec le reste. 🚀
