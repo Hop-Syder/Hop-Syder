@@ -1,3 +1,6 @@
+Voici le README **complet et final**, avec le combo intégré : **🤖 Metrics + 🏆 Trophées + 🐍 Snake** (tu as déjà configuré le token pour Metrics, donc autant tout exploiter).
+
+````markdown
 <!--
  * @author       @hopsyder
  * @organization Nexus Partners
@@ -82,10 +85,21 @@ Je suis **Daouda Abassi Christian** (alias **@hopsyder**), ingénieur et archite
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hop-Syder&show_icons=true&theme=tokyonight&locale=fr&count_private=true&hide_border=true" alt="Statistiques GitHub de Hop-Syder" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hop-Syder&layout=compact&theme=tokyonight&locale=fr&hide_border=true&hide=html,css" alt="Langages les plus utilisés par Hop-Syder" />
+### 🤖 Métriques détaillées
 
-<img height="170em" src="https://streak-stats.demolab.com/?user=Hop-Syder&theme=tokyonight&locale=fr&hide_border=true" alt="Série de contributions GitHub de Hop-Syder" />
+<img width="100%" src="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/metrics.svg" alt="Métriques GitHub de Hop-Syder" />
+
+### 🏆 Trophées
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hop-Syder&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&locale=fr" alt="Trophées GitHub de Hop-Syder" width="100%" />
+
+### 🐍 Graphe de contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake.svg" alt="Snake animation des contributions de Hop-Syder" />
+</picture>
 
 </div>
 
@@ -117,6 +131,21 @@ Un projet ambitieux ? Besoin d'une architecture technique solide ? Ou simplement
 <div align="center">
   <p><i>Propulsé par DEXTY — Votre Agent de Développement Full Stack Pro.</i></p>
 </div>
+````
 
+---
 
-Dis-moi si tu veux une version avec le **snake animation** (graphe de contributions animé) — ça nécessite d'ajouter un petit GitHub Action, je peux te fournir le workflow. 🐍
+## ✅ Checklist avant de push
+
+Pour que les 3 visuels de la section stats s'affichent, vérifie que tout est en place :
+
+| # | Élément | Statut |
+|---|---|---|
+| 1 | 🤖 Fichier `.github/workflows/metrics.yml` créé + secret `METRICS_TOKEN` configuré | ⬜ |
+| 2 | 🐍 Fichier `.github/workflows/snake.yml` créé | ⬜ |
+| 3 | ▶️ **Run workflow manuel** pour les deux (onglet *Actions*) | ⬜ |
+| 4 | 🔍 Vérifier que la branche `output` contient `metrics.svg`, `snake.svg`, `snake-dark.svg` | ⬜ |
+
+> ⚠️ **Important** : tant que les workflows n'ont pas tourné au moins une fois, les images afficheront une erreur. Lance-les manuellement dès la création des fichiers, puis tout se régénère automatiquement chaque jour.
+
+> 💡 Si un jour tu veux revenir aux cartes classiques (stats + langages + streak), dis-le-moi et je te fais une variante mixte. Tu peux aussi ajouter plus tard le **graphe d'activité annuel** — il se marie bien avec le reste. 🚀
