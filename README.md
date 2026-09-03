@@ -1,6 +1,3 @@
-Voici une version retravaillée, plus propre et plus fiable :
-
-```markdown
 <!--
  * @author       @hopsyder
  * @organization Nexus Partners
@@ -120,7 +117,6 @@ Un projet ambitieux ? Besoin d'une architecture technique solide ? Ou simplement
 <div align="center">
   <p><i>Propulsé par DEXTY — Votre Agent de Développement Full Stack Pro.</i></p>
 </div>
-```
 
 
 Dis-moi si tu veux une version avec le **snake animation** (graphe de contributions animé) — ça nécessite d'ajouter un petit GitHub Action, je peux te fournir le workflow. 🐍
