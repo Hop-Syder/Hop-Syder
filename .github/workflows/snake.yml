@@ -26,5 +26,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          # Commit incrémental : préserve metrics.svg (publié par metrics.yml sur la même branche)
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

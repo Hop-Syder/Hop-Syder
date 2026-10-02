@@ -1,130 +1,174 @@
 <!--
  * @author       @hopsyder
  * @organization Nexus Partners
- * @description  GitHub Profile README professionnel pour @hopsyder
+ * @description  GitHub Profile README (FR) — @hopsyder
  * @created      2026-06-15
- * @updated      2026-06-15
+ * @updated      2026-10-02
  * 🌐 ceo.nexuspartners.xyz
  * 📧 daoudaabassichristian@gmail.com
  ──────────────────────────────────
 -->
 
+<div align="right">
+
+[![Français](https://img.shields.io/badge/FR-Français-0055A4?style=flat-square)](README.md)
+[![English](https://img.shields.io/badge/EN-English-555555?style=flat-square)](README_en.md)
+
+</div>
+
 <div align="center">
 
-# 🚀 Daouda Abassi Christian
+# Daouda Abassi Christian
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Architect;CEO+%40+Nexus+Partners;Clean+Code+%E2%80%A2+Performance+%E2%80%A2+Design;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Flutter" alt="Typing SVG" />
+**Architecte logiciel Full-Stack · Data Scientist · CEO @ [Nexus Partners](https://ceo.nexuspartners.xyz)**
 
-### Full-Stack Software Architect · CEO @ Nexus Partners
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Architect;Data+Scientist+%C2%B7+IA+appliqu%C3%A9e;CEO+%40+Nexus+Partners;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Flutter+%E2%80%A2+Python" alt="Full-Stack Software Architect · Data Scientist · CEO @ Nexus Partners" />
 
-[![Website](https://img.shields.io/badge/ceo.nexuspartners.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ceo.nexuspartners.xyz)
-[![Gmail](https://img.shields.io/badge/daoudaabassichristian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoudaabassichristian@gmail.com)
-[![GitHub](https://img.shields.io/badge/%40Hop--Syder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hop-Syder)
+[![Site web](https://img.shields.io/badge/ceo.nexuspartners.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ceo.nexuspartners.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael122)
+[![X](https://img.shields.io/badge/@hopsyder-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hopsyder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoudaabassichristian@gmail.com)
+
+</div>
 
 <br/>
 
-<p align="center"><i>"L'excellence en développement, design et architecture logicielle.<br/>Créer des produits performants, élégants et robustes."</i></p>
-
-![Visiteurs](https://komarev.com/ghpvc/?username=Hop-Syder&label=VISITEURS&color=blueviolet&style=flat-square)
-
-</div>
+> *Je conçois et livre des produits numériques de bout en bout : de l'architecture backend au modèle de machine learning, jusqu'à l'interface que l'utilisateur a entre les mains.*
 
 ---
 
-## 🧠 À propos de moi
+## 👨🏾‍💻 À propos
 
-Je suis **Daouda Abassi Christian** (alias **@hopsyder**), ingénieur et architecte logiciel passionné par la création de produits innovants et haut de gamme. En tant que **CEO de Nexus Partners**, j'accompagne entreprises et startups dans la conception d'architectures résilientes, d'interfaces à l'esthétique soignée (*Beauty First*) et de systèmes hautement performants.
+Ingénieur logiciel et data scientist avec **plus de 5 ans d'expérience**, je dirige **Nexus Partners**, un studio tech qui accompagne startups et entreprises dans la conception de produits web, mobiles et IA.
 
-- 🏢 **Nexus Partners** — nous façonnons le futur de la tech à travers des applications web & mobiles d'excellence.
-- 🔭 **Actuellement** — conception de produits SaaS & fintech (Next.js · NestJS · Flutter).
-- 🤖 **En exploration** — IA appliquée aux produits et à l'automatisation.
-- ⚡ **Philosophie** — Clean Architecture, simplicité du code, performances extrêmes et automatisation.
-- 🌍 **Localisation** — Afrique de l'Ouest (Bénin) · International.
-- 💬 **Langues** — Français · Anglais.
+Mon approche tient en trois principes : des **architectures propres et évolutives**, des **interfaces soignées** (*Beauty First*) et une **automatisation systématique**, du premier commit jusqu'à la mise en production.
+
+```ts
+const hopsyder = {
+  role:       ["Full-Stack Software Architect", "Data Scientist", "CEO @ Nexus Partners"],
+  basedIn:    "Bénin 🇧🇯 · disponible à l'international",
+  experience: "5+ ans",
+  building:   ["Produits SaaS", "Solutions fintech"],
+  exploring:  ["IA appliquée au produit", "Automatisation intelligente"],
+  principles: ["Clean Architecture", "Clean Code", "Performance", "Veille continue"],
+  languages:  ["Français", "English"],
+} as const;
+```
 
 ---
 
-## 🛠️ Mon arsenal technologique
+## 🎯 Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ Architecture & Backend**
+
+- Architectures modulaires et microservices
+- API REST & GraphQL (NestJS, FastAPI, Django, Flask)
+- Modélisation de données et PostgreSQL
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Web & Mobile**
+
+- Applications web performantes (Next.js, React)
+- Apps multiplateformes (Flutter, React Native)
+- Design systems et UI soignée (Tailwind CSS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Data & IA**
+
+- Machine Learning et Deep Learning
+- Traitement automatique du langage (NLP)
+- Mise en production de modèles via API
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ DevOps & Paiements**
+
+- CI/CD avec GitHub Actions
+- Conteneurisation avec Docker
+- Paiements FedaPay (Afrique) et Stripe (international)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack technique
+
+| Domaine | Technologies |
+| :-- | :-- |
+| **Langages** | <img src="https://skillicons.dev/icons?i=ts,js,py,dart" alt="TypeScript, JavaScript, Python, Dart" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Next.js, React, Tailwind CSS" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react" alt="Flutter, React Native" /> |
+| **Backend & API** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,django,flask,graphql" alt="NestJS, Node.js, FastAPI, Django, Flask, GraphQL" /> |
+| **Data & IA** | <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow" alt="Python, scikit-learn, PyTorch, TensorFlow" /> |
+| **Bases de données** | <img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Supabase, PostgreSQL" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,githubactions,git" alt="Docker, GitHub Actions, Git" /> |
+| **Paiements** | ![FedaPay](https://img.shields.io/badge/FedaPay-0099FF?style=for-the-badge) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) |
+
+---
+
+## 🌐 Nexus Partners
+
+> Ingénierie logicielle de haut niveau et design produit, au service de vos ambitions.
+
+| Offre | Ce que nous livrons |
+| :-- | :-- |
+| 🏗️ **Architecture logicielle** | Des fondations scalables et résilientes : microservices, API, cloud |
+| 📱 **Produits web & mobile** | Du MVP à la production, avec Next.js, NestJS et Flutter |
+| 🔌 **Intégrations & paiements** | Connexion aux systèmes tiers, FedaPay et Stripe |
+| 🤖 **IA & innovation** | Audit, prototypage et intégration de l'IA dans vos produits |
+
+👉 **[Découvrir Nexus Partners](https://ceo.nexuspartners.xyz)**
+
+---
+
+## 📈 Activité GitHub
 
 <div align="center">
 
-**🎨 Frontend & Design**
+<img width="100%" src="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/metrics.svg" alt="Métriques GitHub de @Hop-Syder" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**⚙️ Backend & API**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**🗄️ Bases de données · DevOps · Cloud**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**💳 Paiements**
-
-![FedaPay](https://img.shields.io/badge/FedaPay-0099FF?style=for-the-badge&logo=credit-card&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-
-</div>
-
----
-
-## 📈 Statistiques GitHub
-
-<div align="center">
-
-### 🤖 Métriques détaillées
-
-<img width="100%" src="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/metrics.svg" alt="Métriques GitHub de Hop-Syder" />
-
-### 🏆 Trophées
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hop-Syder&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&locale=fr" alt="Trophées GitHub de Hop-Syder" width="100%" />
-
-### 🐍 Graphe de contributions
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake.svg" alt="Snake animation des contributions de Hop-Syder" />
+  <img width="100%" src="https://raw.githubusercontent.com/Hop-Syder/Hop-Syder/output/snake.svg" alt="Animation snake du graphe de contributions de @Hop-Syder" />
 </picture>
 
 </div>
 
 ---
 
-## 🌐 Nexus Partners
+## 📬 Travaillons ensemble
 
-Chez **Nexus Partners**, l'ingénierie logicielle de haut niveau et le design convergent pour créer des expériences numériques d'exception. Nous intervenons sur :
+Un projet SaaS, une application mobile, un besoin en IA ou simplement l'envie d'échanger sur la tech ? **Écrivez-moi.**
 
-- 🏗️ **Architecture logicielle & microservices** — des bases solides, scalables et résilientes.
-- 📱 **Applications web & mobile** — développement multiplateforme de bout en bout (Next.js, NestJS, Flutter).
-- 🔌 **Intégrations systèmes & paiements** — solutions locales (FedaPay) et internationales (Stripe).
-- 🤖 **Conseil en innovation & IA** — accompagnement technique pour accélérer la croissance de vos produits.
-
-👉 Découvrez-en plus sur notre site officiel : **[ceo.nexuspartners.xyz](https://ceo.nexuspartners.xyz)**
-
----
-
-## 📬 Me contacter
-
-Un projet ambitieux ? Besoin d'une architecture technique solide ? Ou simplement envie d'échanger sur les dernières technologies ? **Écrivez-moi** 👇
-
-- 📧 **Email** — [daoudaabassichristian@gmail.com](mailto:daoudaabassichristian@gmail.com)
-- 🌐 **Site web** — [ceo.nexuspartners.xyz](https://ceo.nexuspartners.xyz)
-- 🐙 **GitHub** — [@Hop-Syder](https://github.com/Hop-Syder)
+- 📧 **Email** : [daoudaabassichristian@gmail.com](mailto:daoudaabassichristian@gmail.com)
+- 🌐 **Site** : [ceo.nexuspartners.xyz](https://ceo.nexuspartners.xyz)
+- 💼 **LinkedIn** : [in/ismael122](https://www.linkedin.com/in/ismael122)
+- 🐦 **X** : [@hopsyder](https://x.com/hopsyder)
 
 ---
 
 <div align="center">
-  <p><i>Propulsé par DEXTY — Votre Agent de Développement Full Stack Pro.</i></p>
+
+<sub>Conçu avec rigueur par <b>@hopsyder</b> · © 2026 Nexus Partners</sub>
+
+<br/>
+
+![Visiteurs](https://komarev.com/ghpvc/?username=Hop-Syder&label=Visiteurs&color=7AA2F7&style=flat-square)
+
 </div>
